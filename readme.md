@@ -24,3 +24,5 @@ En el presente trabajo se tendra como ambito de estudio lo siguiente:
 #### 1.1 Acceso a datos de sensoramiento remoto desde GEE: Variables climáticas TERRACLIMATE para la Departamento de **AYACUCHO**
 #### 1.2 Calculo de los Indices de vegetacion para la Cuenca de **RIMAC**
 #### 1.3 Visualizacion de los Indices de vegetacion 
+
+https://colab.research.google.com/drive/1RXk7MDDwWVWYu1TeYFIF-CSzkjd0I8_q?usp=sharing
