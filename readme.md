@@ -1,5 +1,5 @@
 
-# Examen de CUrso de AUTOMATIZACION DE DATOS EN SIG
+# Examen de Curso de AUTOMATIZACION DE DATOS EN SIG
 
 En el presente trabajo se tendra como ambito de estudio lo siguiente:
 ****
